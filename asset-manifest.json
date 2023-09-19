@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Simple-Scratch-Card/static/css/main.1f58d2c2.css",
+    "main.js": "/Simple-Scratch-Card/static/js/main.58c8d4fb.js",
+    "static/js/787.26d1eb77.chunk.js": "/Simple-Scratch-Card/static/js/787.26d1eb77.chunk.js",
+    "static/media/img4.png": "/Simple-Scratch-Card/static/media/img4.c810d7a7be9d32dd7da2.png",
+    "static/media/img1.png": "/Simple-Scratch-Card/static/media/img1.b612d75e605ea917ee52.png",
+    "static/media/img7.png": "/Simple-Scratch-Card/static/media/img7.05721af4f86089581dd3.png",
+    "static/media/mountail.jpg": "/Simple-Scratch-Card/static/media/mountail.2751ff440f2009c12bae.jpg",
+    "static/media/winning-card.jpg": "/Simple-Scratch-Card/static/media/winning-card.6a60970a6a5cd66ba11a.jpg",
+    "static/media/img10.png": "/Simple-Scratch-Card/static/media/img10.6fec2b33df7363236e40.png",
+    "static/media/img9.png": "/Simple-Scratch-Card/static/media/img9.216f427503e0e9644e53.png",
+    "static/media/img2.png": "/Simple-Scratch-Card/static/media/img2.d06ff8a9a373350ea58b.png",
+    "static/media/img6.png": "/Simple-Scratch-Card/static/media/img6.069f815bc5e8d1996df7.png",
+    "static/media/img8.png": "/Simple-Scratch-Card/static/media/img8.df1bf469b8d87fa008a0.png",
+    "static/media/img5.png": "/Simple-Scratch-Card/static/media/img5.d9dfe9a65936914289bc.png",
+    "static/media/prakash.jpg": "/Simple-Scratch-Card/static/media/prakash.0b5906e3508beae3419c.jpg",
+    "static/media/sdf.jpg": "/Simple-Scratch-Card/static/media/sdf.862402c15c1a69530db4.jpg",
+    "static/media/dkasjd.jpg": "/Simple-Scratch-Card/static/media/dkasjd.ee15f193658c17c464ce.jpg",
+    "static/media/hardik.jpg": "/Simple-Scratch-Card/static/media/hardik.4703d62bfb4237328dd3.jpg",
+    "index.html": "/Simple-Scratch-Card/index.html",
+    "main.1f58d2c2.css.map": "/Simple-Scratch-Card/static/css/main.1f58d2c2.css.map",
+    "main.58c8d4fb.js.map": "/Simple-Scratch-Card/static/js/main.58c8d4fb.js.map",
+    "787.26d1eb77.chunk.js.map": "/Simple-Scratch-Card/static/js/787.26d1eb77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f58d2c2.css",
+    "static/js/main.58c8d4fb.js"
+  ]
+}
